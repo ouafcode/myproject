@@ -1,2 +1,2 @@
 # myproject
-this repository is the tutorial d'application from github courses
+this repository is tutorial's application from github courses
